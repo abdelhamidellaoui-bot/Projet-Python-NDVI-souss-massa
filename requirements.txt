@@ -1,0 +1,11 @@
+geopandas
+shapely
+folium
+pandas
+numpy
+matplotlib
+rasterio
+requests
+beautifulsoup4
+earthengine-api
+jupyter

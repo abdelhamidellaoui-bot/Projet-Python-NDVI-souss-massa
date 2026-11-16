@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+ndvi_projet.db
+parcelle.geojson
+parcelle_map.html
+modis_tiffs/
+*.tif
+*.tiff
+credentials*.json
+.env
